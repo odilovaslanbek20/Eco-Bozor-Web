@@ -21,6 +21,9 @@ import Harid2 from './pages/about/Shop2'
 import Harid4 from './pages/about/Shopp3'
 import Shop6 from './components/Shop/Karzinka'
 import Data from './pages/about/ModalData'
+import BlogPage from './pages/Blog/Index'
+import BlogPage1 from './pages/Blog/Index1'
+import ModalPage from './pages/Modal/Index'
 
 function App() {
 	return (
@@ -47,6 +50,9 @@ function App() {
 				<Route path='/faqs' element={<FaqsCards />} />
 				<Route path='/settings' element={<Parametr />} />
 				<Route path='/contact' element={<Aloqa />} />
+				<Route path='/popup' element={<ModalPage />} />
+				<Route path='/blog' element={<BlogPage />} />
+				<Route path='/blogList' element={<BlogPage1 />} />
 				<Route path='*' element={<NotPage />} />
 			</Routes>
 		</>
