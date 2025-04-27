@@ -1,9 +1,9 @@
-import Index3 from '../../components/AdmenPanel/Index3'
+import Index3 from '../../components/AdminPanel/Index3'
 
 function OrderPage() {
 	return (
 		<>
-			<Index3 />
+			<Index3/>
 		</>
 	)
 }

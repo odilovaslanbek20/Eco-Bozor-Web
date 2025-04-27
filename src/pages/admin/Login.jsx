@@ -1,10 +1,9 @@
-import Index from '../../components/AdmenPanel'
-
+import Index from '../../components/AdminPanel/Index'
 
 function Login() {
 	return (
 		<>
-			<Index />
+			<Index/>
 		</>
 	)
 }

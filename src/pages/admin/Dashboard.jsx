@@ -1,4 +1,5 @@
-import Index2 from '../../components/AdmenPanel/index2'
+import Index2 from '../../components/AdminPanel/Index2'
+
 
 
 function Dashboard() {

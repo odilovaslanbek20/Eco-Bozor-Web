@@ -1,4 +1,4 @@
-import Index5 from '../../components/AdmenPanel/Index5'
+import Index5 from '../../components/AdminPanel/Index5'
 
 function Parametr() {
 	return (
