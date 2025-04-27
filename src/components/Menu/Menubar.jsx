@@ -27,7 +27,7 @@ function Menubar() {
 			{ label: 'Shopping 2', to: '/shop2' },
 		],
 		Page: [
-			{ label: 'Page 1', to: '/page1' },
+			{ label: 'Page 1', to: '/popup' },
 			{ label: 'Page 2', to: '/page2' },
 			{ label: 'Page 3', to: '/page3' },
 		],
