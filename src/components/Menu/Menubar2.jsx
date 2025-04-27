@@ -35,10 +35,8 @@ function Menubar2() {
 			{ label: 'Page 3', to: '/page3' },
 		],
 		Blog: [
-			{ label: 'Blog 1', to: '/blog1' },
-			{ label: 'Blog 2', to: '/blog2' },
-			{ label: 'Blog 3', to: '/blog3' },
-			{ label: 'Blog 4', to: '/blog4' },
+			{ label: 'Blog', to: '/blog' },
+			{ label: 'Blog List', to: '/blogList' },
 		],
 	}
 
